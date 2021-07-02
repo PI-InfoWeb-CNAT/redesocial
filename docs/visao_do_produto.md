@@ -20,8 +20,8 @@ O projeto __Trails__ tem como objetivo ser uma rede social específica para aque
 
 | Nome | Descrição | Responsabilidades |
 |:---  |:--- |:--- |
-| Trilheiro  | Membros da rede social e que fazem as trilhas | postam fotos das trilhas, fazem comentários, etc.|
-| Moderador | Membros da rede social que administram o sistema | além de poderem realiza as atividades inerentes aos trilheiros, podem fazer o desligamento ou cancelamento de postagens indevidas|
+| Trilheiro  | Membros da rede social e que fazem as trilhas | Postam fotos das trilhas, fazem comentários, etc.|
+| Moderador | Administram o sistema | Além de poderem realiza as atividades inerentes aos trilheiros, podem fazer o desligamento ou cancelamento de postagens indevidas|
 ### 4. Principais necessidades dos usuários
 Os trailheiros sentem falta de um ambinete apropriado para postagens de suas aventuras/passeios. Atualmente se tem usado alguns aplicativos de rede social como Facebook, Instagram, entre outros. Como este sistemas são de cunho generalista, seus participantes precisam criar grupos específicos que os identifiquem. Isso causa uma proliferação de grupos que termina prejudicando a comunicação entre a comunidade de trilheiros.
 

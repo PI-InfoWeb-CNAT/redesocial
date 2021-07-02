@@ -18,8 +18,7 @@
 
 |         Nome        | Descrição   | Responsabilidades|
 |:--------------------|:------------|: ----------------|
-| Trilheiro | Membros da rede social e que fazem as trilhas |postam fotos das trilhas, fazem comentários, etc. |
-| Moderado | Membros da rede social que administram o sistema | podem fazer postagens como os trilheiros e também possuem atribuição de excluir membros e/ou cancelar uma  postagens indevidas. |  
+| Trilheiro| Membros da rede social e que fazem as trilhas| postam fotos das trilhas, fazem comentários, etc.|
 
 ## 4. Principais necessidades dos usuários
 

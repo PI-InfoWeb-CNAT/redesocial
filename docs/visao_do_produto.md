@@ -1,7 +1,9 @@
 # Documento de visão
 
 
-### 1. Projeto : Trails 1.0
+### 1. Objetivo do Projeto 
+
+O projeto __Trails__ tem como objetivo ser uma rede social específica para aqueles que realização seus passeios/trilhas de aventura e lazer.
  
 
 ### 2. Descrição do problema 
@@ -21,11 +23,11 @@
 | Trilheiro  | Membros da rede social e que fazem as trilhas | postam fotos das trilhas, fazem comentários, etc.|
 
 ### 4. Principais necessidades dos usuários
-Os trailheiros sentem falta de um ambinete apropriado para postagens de suas aventuras/passeios. Atualmente se tem usado alguns aplicativos de rede social como facebook,instagram, entre outros. Como esse sistemas são de cunho generalista, seus participantes precisam criar grupos específicos que os identifiquem. Isso causa uma proliferação de grupos que termina prejudicando a comunicação entre a comunidade de trilheiros.
+Os trailheiros sentem falta de um ambinete apropriado para postagens de suas aventuras/passeios. Atualmente se tem usado alguns aplicativos de rede social como Facebook, Instagram, entre outros. Como este sistemas são de cunho generalista, seus participantes precisam criar grupos específicos que os identifiquem. Isso causa uma proliferação de grupos que termina prejudicando a comunicação entre a comunidade de trilheiros.
 
-Neste contexto, os trileiros gostariam que fosse construído uma sistema exclusivo para os registro e divuldação de seus passeios.
+Neste contexto, os trileiros gostariam que fosse construído uma sistema exclusivo para os registro e divuldação de seus passeios, como: caminhadas, cavalgadas,trilhas de bicicleta e corridas.
 
-Para isso, o sistema precisaria permitir a realziação de postagens dos passeios como fotos, textos e percurso. O sistema deve, também, permitir a realização de comentários por parte dos membros da rede sobre determinada postagem e enviar uma mensagem para um membro especifico. Além, claro, gerenciar o perfil de cada membro da rede de trilheiros.
+Para isso, o sistema precisaria permitir a realziação de postagens dos passeios como: fotos, textos e percurso. O sistema deve, também, permitir a realização de comentários por parte dos membros da rede sobre determinada postagem e enviar uma mensagem para um membro especifico. Além, claro, gerenciar o perfil de cada membro da rede de trilheiros.
 
 Para os trilheiros, também, é importante ter o controle de milagem percurrida por evento.
 
@@ -34,7 +36,7 @@ Para os trilheiros, também, é importante ter o controle de milagem percurrida 
 Como alternativas concorrentes existem os sistema de rede social existentes atualmente: facebook, instagram, pinterest, Twitter, etc.
 
 ### 6.	Visão geral do produto
-A nova rede social, específica para trilheiros, deve ser contruída inicialmente para uso em navegadores existentes no mercado. Sua interface com usuário deve possuir um boa usabilidade e para isto devese aproximar da forma de interação já difundidas nas redes sociais existentes.
+A nova rede social, específica para trilheiros, deve ser construída para uso em navegadores (_browsers_) existentes no mercado. Sua interface com usuário deve possuir um boa usabilidade e para isto deve se aproximar da forma de interação já difundidas nas redes sociais existentes.
 
 É importante que o sistema possua um interface de comunicação com algum sistema de GPS para receber os dados do percurso da trilha realizada.
 

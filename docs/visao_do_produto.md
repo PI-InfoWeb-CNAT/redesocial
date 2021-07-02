@@ -16,9 +16,10 @@
 
 ## 3. Descrição dos usuários
 
-|         Nome        | Descrição   | Responsabilidades|
-|:--------------------|:------------|: ----------------|
-  
+| Nome | Descrição | Responsabilidades |
+|---|---|---|
+| Trilheiro  | Membros da rede social e que fazem as trilhas | Aqui |
+| Moderador  | Membros da rede social que administram o sistema  ||
 
 ## 4. Principais necessidades dos usuários
 

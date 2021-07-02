@@ -18,7 +18,7 @@
 
 |         Nome        | Descrição   | Responsabilidades|
 |:--------------------|:------------|: ----------------|
-| Trilheiro| Membros da rede social e que fazem as trilhas| postam fotos das trilhas, fazem comentários, etc.|
+  
 
 ## 4. Principais necessidades dos usuários
 

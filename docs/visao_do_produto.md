@@ -1,5 +1,13 @@
 # Documento de visão
 
+## Rede Social (Trails)
+
+### Histórico da Revisão 
+
+|  Data  | Versão | Descrição | Autor |
+|:-------|:-------|:----------|:------|
+| 05/06/2021 | **1.00** | Versão Inicial  | Alessandro |
+
 
 ### 1. Objetivo do Projeto 
 

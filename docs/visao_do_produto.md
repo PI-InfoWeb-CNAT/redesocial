@@ -6,7 +6,7 @@
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 05/06/2021 | **1.00** | Versão Inicial  | Alessandro |
+| 05/06/2021 | **1.00** | Versão Inicial  | Alessandro Souza|
 
 
 ### 1. Objetivo do Projeto 

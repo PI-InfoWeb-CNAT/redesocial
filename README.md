@@ -13,7 +13,17 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 * Detalhamento de casos de uso 
 
+ [Post Trails](./docs/casos_de_uso/ucd_post_trails.md)
+ 
+ [Comment Trails](./docs/casos_de_uso/ucd_comment_trails.md)
+
+ [Like Trails](./docs/casos_de_uso/ucd_like_trail.md)
+
+ [See Milage](./docs/casos_de_uso/ucd_see_Milage.md)
+
 * Diagrama de casos de uso
+
+* Diagrama de classes de domínio
 
 * Documentação da arquitetura
 

@@ -17,9 +17,9 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
  
  [Comment Trails](./docs/casos_de_uso/ucd_comment_trails.md)
 
- [Like Trails](./docs/casos_de_uso/ucd_like_trail.md)
+ [Like Trails](./docs/casos_de_uso/ucd_like_trails.md)
 
- [See Milage](./docs/casos_de_uso/ucd_see_Milage.md)
+ [See Milage](./docs/casos_de_uso/ucd_see_milage.md)
 
 * Diagrama de casos de uso
 

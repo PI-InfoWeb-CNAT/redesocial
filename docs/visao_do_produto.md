@@ -11,17 +11,17 @@
 
 ### 1. Objetivo do Projeto 
 
-O projeto __Trails__ tem como objetivo ser uma rede social específica para aqueles que realização seus passeios/trilhas de aventura e lazer.
+O projeto __Trails__ tem como objetivo ser uma rede social específica para aqueles que realizam seus passeios/trilhas de aventura e lazer.
  
 
 ### 2. Descrição do problema 
 
 |         __        | __   |
 |:------------------|:-----|
-| **_O problema_**    | esta realacionado a falta de uma rede social específica para trilheiros  |
+| **_O problema_**    | está relacionado a falta de uma rede social específica para trilheiros  |
 | **_afetando_**      | pessoas que gostariam de compartilhar fotos e percurso de suas aventuras |
-| **_cujo impacto é_**| a falta de divulgação dos eventos entre grupos apropriados|
-| **_uma boa solução seria_** | a criação de uma rede social que permita o comparilhamento de trilhas realizadas bem como a comunicação entre os grupos de trilheiros|
+| **_cujo impacto é_**| a falta de divulgação dos eventos entre grupos apropriados.|
+| **_Uma boa solução seria_** | a criação de uma rede social que permita o comparilhamento de trilhas realizadas bem como a comunicação entre os grupos de trilheiros.|
 
 
 ### 3. Descrição dos usuários
@@ -29,8 +29,8 @@ O projeto __Trails__ tem como objetivo ser uma rede social específica para aque
 | Nome | Descrição | Responsabilidades |
 |:---  |:--- |:--- |
 | Trilheiro  | Membros da rede social e que fazem as trilhas | Postam fotos das trilhas, realizam comentários, etc.|
-| Visitante  | Pessoal não cadastrado como membro da rede. | Realizam apenas consultas de postagens, mas não podem fazer comentários nem favoritar. |
-| Moderador | Administrador do sistema | Além de poderem realiza as atividades inerentes aos trilheiros, podem fazer o desligamento ou cancelamento de postagens indevidas|
+| Visitante  | Pessoal não cadastrado como membro da rede. | Realizam apenas consultas de postagens, mas não podem fazer comentários nem favoritar uma postagem. |
+| Moderador | Administrador do sistema | Além de poderem realiza as atividades inerentes aos trilheiros, podem fazer o desligamento de membros ou cancelamento de postagens indevidas.|
 
 ### 4. Descrição do ambiente dos usuários
 
@@ -41,9 +41,9 @@ Os locais para interação com o sistema são diversos e estes podem ter uma var
 ### 5. Principais necessidades dos usuários
 Os trailheiros sentem falta de um ambinete apropriado para postagens de suas aventuras/passeios. Atualmente se tem usado alguns aplicativos de rede social como Facebook, Instagram, entre outros. Como este sistemas são de cunho generalista, seus participantes precisam criar grupos específicos que os identifiquem. Isso causa uma proliferação de grupos que termina prejudicando a comunicação entre a comunidade de trilheiros.
 
-Neste contexto, os trileiros gostariam que fosse construído uma sistema exclusivo para os registro e divuldação de seus passeios, como: caminhadas, cavalgadas,trilhas de bicicleta e corridas.
+Neste contexto, os trileiros gostariam que fosse construído um sistema exclusivo para os registros e divuldação de seus passeios, como: caminhadas, cavalgadas,trilhas de bicicleta e corridas.
 
-Para isso, o sistema precisaria permitir a realziação de postagens dos passeios como: fotos, textos e percurso. O sistema deve, também, permitir a realização de comentários por parte dos membros da rede sobre determinada postagem e enviar uma mensagem para um membro especifico. Além, claro, gerenciar o perfil de cada membro da rede de trilheiros.
+Para isso, o sistema precisaria permitir a realziação de postagens dos passeios com: fotos, textos e percurso. O sistema deve, também, permitir a realização de comentários por parte dos membros da rede sobre determinada postagem e enviar uma mensagem para um membro específico. Além, claro, gerenciar o perfil de cada membro da rede de trilheiros.
 
 Para os trilheiros, também, é importante ter o controle de milagem percurrida por evento.
 
@@ -54,7 +54,7 @@ Como alternativas concorrentes existem os sistema de rede social existentes atua
 ### 7.	Visão geral do produto
 A nova rede social, específica para trilheiros, deve ser construída para uso em navegadores (_browsers_) existentes no mercado. Sua interface com usuário deve possuir um boa usabilidade e para isto deve se aproximar da forma de interação já difundidas nas redes sociais existentes.
 
-É importante que o sistema possua um interface de comunicação com algum sistema de GPS para receber os dados do percurso da trilha realizada.
+É importante que o sistema possua um interface de comunicação com algum sistema de GPS para receber os dados do percurso das trilhas realizadas.
 
 O sistema deve possuir uma logo marca que identifique-o e que possa ser utilizado pelos seus membros para divulgação em eventos.  
 
@@ -62,13 +62,13 @@ O sistema deve possuir uma logo marca que identifique-o e que possa ser utilizad
 
 | Código | Nome | Descrição |
 |:---  |:--- |:--- |
-| RF01 | Gerenciar perfil (conta).| Este requisito tem o propósito de habilitar o membro da rede a consultar e atualizar seus dados de perfil. |
+| RF01 | Gerenciar perfil (conta)| Este requisito tem o propósito de habilitar o membro da rede a consultar e atualizar seus dados de perfil. |
 | RF03 | Criar perfil | Permite que pessoas visitantes da rede possam realizar seu cadastro e começar a participar fazendo postagens de suas trilhas. |
-| RF04 | Gerenciar postagens. |  Membros da rede podem criar, consultar, editar e excluir suas postagens. Como forma de moderar postagens abusivas o administrador do sistema poderá excluir uma postagem. |
-| RF05 | Comentar postagens | Pertmite que membros da rede podem fazer comentários em postagens de outro membros. |
+| RF04 | Gerenciar postagens |  Membros da rede podem criar, consultar, editar e excluir suas postagens. Como forma de moderar postagens abusivas o administrador do sistema poderá excluir uma postagem. |
+| RF05 | Comentar postagens | Pertmite que membros da rede possam fazer comentários em postagens de outro membros. |
 | RF06 | Apreciar (like) postagens | Além de poderem fazer comentários sobre uma postagem os membros da rede podem apreciar uma postagem apenas dando um like. |
-| RF07 | Consultar percursos | Membros e visitantes da rede podem visualizar em um mapa o percuso da trilha, quando cadastrado druante a postagem.  |
-| RF08 | Consultar kilometragens percorridas | Os membros da rede podem consultar o somatório de kilometragem por categoria (caminhada, corrida, etc) de trilha de uma membro. |
+| RF07 | Consultar percursos | Membros e visitantes da rede podem visualizar em um mapa o percuso da trilha, quando cadastrado durante a postagem.  |
+| RF08 | Consultar kilometrage percorrida | Os membros da rede podem consultar o somatório de kilometragem por categoria (caminhada, corrida, etc) de trilha de uma membro. |
 | RF09 | Enviar mensagens | O sistem deve permitir a comunicação entre os membros da rede, onde as mensagens devem ser enviadas e consultas no próprio sistema. |
 | RF10 | Cancelar membro | Por questões de ordem éticas  um membro da rede pode ter seu perfil cancelado pelo administrador da rede.|
 

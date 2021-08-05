@@ -25,7 +25,7 @@ O usuário que vai fazer o like precisa estar autenticado no sistema.
 O sistema deve atualizar de forma rápida o quantitativo de likes da postagem realizado na postagem.
 
 ### 5. Fluxos de evento
-
+#### 5.1. Fluxo Principal
 |  Ator  | Sistema |
 |:-------|:------- |
 |1. O usuário aciona a funcionalidade de like da postagem.||

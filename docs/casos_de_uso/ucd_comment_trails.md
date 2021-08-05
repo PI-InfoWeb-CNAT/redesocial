@@ -26,6 +26,7 @@ O sistema deve disponibilizar de forma rápida o comentário realizado na postag
 
 ### 5. Fluxos de evento
 
+#### 5.1. Fluxo Principal 
 |  Ator  | Sistema |
 |:-------|:------- |
 |1. O usuário aciona a funcionalidade de comentar postagem sobre a interface gráfica do sistema.||
@@ -36,7 +37,7 @@ O sistema deve disponibilizar de forma rápida o comentário realizado na postag
 
 
 #### 5.2. Fluxo de excessão 
-     a) Dados inválidos para a operação: caso o usuário tente submeter um comentário sem texto o sistema deve alertá-lo e solicitar os dados novamente.
+     a) Dados inválidos para a operação: caso o usuário tente submeter um comentário sem texto, o sistema deve alertá-lo e solicitar os dados novamente.
 
 ### 6. Prototipos de Interface
 

@@ -25,7 +25,7 @@ O usuário precisa estar autenticado no sistema.
 O sistema deve apresentar um gráfico com informações dos kilometros percorridos por tipos de trilhas.
 
 ### 5. Fluxos de evento
-
+#### 5.1. Fluxo Principal
 |  Ator  | Sistema |
 |:-------|:------- |
 |1. O usuário aciona a funcionalidade de ver kilometragem.||
